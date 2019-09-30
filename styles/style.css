@@ -1,0 +1,105 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  margin-top: 50px;
+  font-size: 5.6rem;
+  line-height: 1;
+}
+
+#myskill {
+  margin-top: 35px;
+}
+
+#description {
+  color: #66BFBF;
+  font-size: 1.6rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+h2 {
+  color: #11999E;
+}
+
+.coding-gif {
+  border-radius: 25%;
+  height: 150px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.speed-typing-gif {
+  border-radius: 25%;
+  height: 150px;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.man {
+  margin-top: 50px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.right-cloud {
+  position: absolute;
+  right: 450px;
+  bottom: 220px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 310px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #d2d0fe;
+}
+
+.middle-container {
+  background-color: #d2d0fe;
+}
+
+.bottom-container {
+  background-color: #d2d0fe;
+  padding-top: 20px;
+  margin-bottom: 0px;
+}
+
+.web {
+  text-decoration: underline;
+}
