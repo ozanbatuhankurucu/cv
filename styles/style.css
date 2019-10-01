@@ -100,20 +100,20 @@ hr {
 
 .right-cloud {
   position: absolute;
-  right: 450px;
-  bottom: 220px;
+  right: 30%;
+  bottom: 35%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 310px;
+  left: 20%;
+  bottom: 45%;
 }
 
 .top-cloud {
   position: absolute;
-  right: 350px;
-  top: 50px;
+  right: 10%;
+  top: 5%;
 }
 
 .top-container {
