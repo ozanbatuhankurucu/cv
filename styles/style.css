@@ -66,9 +66,36 @@ h2 {
 .footer-link {
   color: #11999E;
 }
+.hr{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+hr {
+  color: gray;
+  display: block;
+  margin-top: 1.6rem;
+  margin-bottom: 1.6rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: dotted;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-width: 5px;
+  width: 8%;
+}
 
 .btn {
-  color: #11999E;
+  line-height: 5;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 1.2rem;
+  text-decoration: none;
+  padding: 10px 15px;
+  border: 1px solid #11999E;
+  border-radius: 10px;
+  color: white;
+  background-color: #11999E;
 }
 
 .right-cloud {
@@ -96,11 +123,11 @@ h2 {
 }
 
 .middle-container {
-  background-color: #d2d0fe;
+  background-color: white;
 }
 
 .bottom-container {
-  background-color: #d2d0fe;
+  background-color: #66BFBF;
   height: 80px;
 }
 
@@ -115,4 +142,8 @@ h2 {
 
 .web {
   text-decoration: underline;
+}
+
+.contact-me {
+  padding-bottom: 50px;
 }
