@@ -84,7 +84,9 @@ hr {
   border-width: 5px;
   width: 8%;
 }
-
+.btn:hover {
+  background-color:#30e3cb;
+}
 .btn {
   line-height: 5;
   margin-top: 50px;
@@ -117,8 +119,10 @@ hr {
 }
 
 .top-container {
+
   position: relative;
   padding-top: 5px;
+  padding-bottom:15px;
   background-color: #d2d0fe;
 }
 
