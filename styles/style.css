@@ -12,6 +12,10 @@ h1 {
   font-size: 5.6rem;
   line-height: 1;
 }
+.kulube{
+  width: 26%;
+  height: 26%;
+}
 
 #myskill {
   margin-top: 35px;
@@ -103,7 +107,7 @@ hr {
 .right-cloud {
   position: absolute;
   right: 30%;
-  bottom: 35%;
+  bottom: 60%;
 }
 
 .bottom-cloud {
@@ -123,7 +127,7 @@ hr {
   position: relative;
   padding-top: 5px;
   padding-bottom:15px;
-  background-color: #d2d0fe;
+  background-color: #fff1e9;
 }
 
 .middle-container {
