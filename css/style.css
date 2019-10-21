@@ -4,6 +4,29 @@ body {
   text-align: center;
   font-size: 0.9rem;
 }
+/* TESTIMONIALS */
+#testimonials {
+  text-align: center;
+  background-color: #fff1e9;
+  color: #202040;
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.testimonial-text{
+  margin-bottom:50px;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
 
 /* TITLE SECTION */
 #title {
@@ -11,6 +34,7 @@ body {
 }
 
 #content {
+  background-color: #fff1e9;
   padding: 7% 15%;
 }
 
@@ -115,14 +139,7 @@ hr {
 }
 
 /* FOOTER SECTION */
-.marg {
-  margin-bottom: 50px;
-}
 
 .footer-link {
   margin: 1% 1%;
-}
-.footer-row{
-  padding-top: 15px;
-  padding-bottom:15px;
 }
