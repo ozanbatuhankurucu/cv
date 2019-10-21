@@ -1,0 +1,128 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+/* TITLE SECTION */
+#title {
+  background-color: #fff1e9;
+}
+
+#content {
+  padding: 7% 15%;
+}
+
+#footer {
+  padding: 2% 1%;
+  background-color: #66BFBF;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  font-size: 4.6rem;
+  line-height: 1;
+}
+
+h4 {
+  color: #66BFBF;
+  padding-bottom: 5px;
+}
+
+h3 {
+    font-weight: bold;
+  color: #66BFBF;
+  padding-bottom: 15px;
+}
+
+h5 {
+  color: #66BFBF;
+}
+
+.title-content {
+  padding-top: 100px;
+}
+
+.title-image {
+  width: 70%;
+}
+
+.edge-margin {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/* CONTENT SECTION */
+.content-img-size {
+  width: 40%;
+}
+
+.hr {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+hr {
+  color: gray;
+  display: block;
+  margin-top: 1.6rem;
+  margin-bottom: 1.6rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: dotted;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-width: 5px;
+  width: 8%;
+}
+
+.hizalama {
+  text-align: left;
+  line-height: 2;
+}
+
+.content-column {
+  padding: 3% 5%;
+}
+
+.row {
+  padding: 5% 1%;
+}
+
+.contact-me {
+  line-height: 0.5;
+}
+
+.btn:hover {
+  background-color: #30e3cb;
+}
+
+.btn {
+  line-height: 1.5;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 1.2rem;
+  text-decoration: none;
+  padding: 10px 15px;
+  border: 1px solid #11999E;
+  border-radius: 10px;
+  color: white;
+  background-color: #11999E;
+}
+
+/* FOOTER SECTION */
+.marg {
+  margin-bottom: 50px;
+}
+
+.footer-link {
+  margin: 1% 1%;
+}
+.footer-row{
+  padding-top: 15px;
+  padding-bottom:15px;
+}
