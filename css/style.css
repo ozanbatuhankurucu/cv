@@ -80,6 +80,10 @@ h5 {
 }
 
 /* CONTENT SECTION */
+.man{
+  width: 15%;
+  border-radius: 100%;
+}
 .content-img-size {
   width: 40%;
 }
