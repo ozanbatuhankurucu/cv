@@ -17,6 +17,7 @@ body {
 }
 .testimonial-text{
   margin-bottom:50px;
+
 }
 .carousel-item {
   padding: 7% 15%;
@@ -87,7 +88,6 @@ h5 {
 .content-img-size {
   width: 40%;
 }
-
 .hr {
   padding-top: 80px;
   padding-bottom: 80px;
@@ -153,4 +153,16 @@ hr {
 }
 .target{
   color:#2b2b28;
+}
+
+@media screen and (max-width:990px){
+  .title-image{
+    width: 35%;
+  }
+  .testimonial-text{
+    font-size:1.6rem;
+  }
+  .content-img-size{
+    width: 50%;
+  }
 }
